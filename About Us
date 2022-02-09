@@ -1,0 +1,22 @@
+<html>
+<body>
+</body>
+    
+<style>
+    
+    body {background-color: lightgray;}
+</style>
+    
+<header>
+    <h1>Cooking Classes</h1>
+</header>
+<meta charset="utf-8">
+
+<nav>
+    <a href=["PAGE NAME HERE.HTML"]>NAME</a>
+</nav>
+    
+<div>Meet the Team</div> 
+    <p>Our cooks have expereinces all across the board. From beginners to advanced, our chefs will help you improve your cooking skills!</p>
+    
+</html>
