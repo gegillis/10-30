@@ -1,0 +1,94 @@
+<html>
+<body>
+</body>
+
+<style>
+    
+    body{ background-color: LightGray}
+</style>
+      
+<header>
+    <h1>Cooking Classes</h1>
+</header>
+<meta charset="utf-8">
+
+<nav>
+    <a href="index.html">Home</a>
+</nav>
+    
+<h1 style="text-aligncenter">Meet the Team</h1> 
+    <p>Our cooks have expereinces all across the board. From beginners to advanced, our chefs will help you improve your cooking skills!</p>
+    
+  <h2 style="text-align:center">Our Chefs</h2>
+  <div class="row">
+    <div class="column">
+        <div class="card">
+        <img src="IMAGE.jpg" alt="NAME">
+       <div class="container">
+       <h2>Grace Gilis</h2>
+       <p class="title">Head Chef</p>
+       <p>Head Chef Gillis joined our team in 2018, after spending four years as a Sous Chef on a high-end cruise line. Born in the Midwest, Chef Gillis' speciality are desserts.</p>
+            <p>grace@gillis.com</p>
+            <p><button class="button">Contact</button></p>
+        </div>
+        </div>
+        </div>
+      
+
+<div class="row">
+<div class="column">
+    <div class="card">
+    <img src="IMAGE.jpg" alt="NAME">
+    <div class="container">
+    <h2>Eric Hoy</h2>
+       <p class="title">Chef</p>
+            <p>Bio</p>
+        <p>eric@hoy.com</p>
+        <p><button class="button">Contact</button></p>
+        </div>
+        </div>
+        </div>
+
+<div class="row">
+<div class="column">
+    <div class="card">
+    <img src="IMAGE.jpg" alt="NAME">
+    <div class="container">
+    <h2>Nathan Loi</h2>
+       <p class="title">Chef</p>
+            <p>Bio</p>
+        <p>nathan@loi.com</p>
+        <p><button class="button">Contact</button></p>
+        </div>
+        </div>
+        </div>
+
+<div class="row">
+<div class="column">
+    <div class="card">
+    <img src="IMAGE.jpg" alt="NAME">
+    <div class="container">
+    <h2>Rahul Chidam</h2>
+       <p class="title">Chef</p>
+            <p>Bio</p>
+        <p>rahul@chidam.com</p>
+        <p><button class="button">Contact</button></p>
+        </div>
+        </div>
+        </div>
+
+<div class="row">
+<div class="column">
+    <div class="card">
+    <img src="IMAGE.jpg" alt="NAME">
+    <div class="container">
+    <h2>Zhen</h2>
+       <p class="title">Chef</p>
+            <p>Bio</p>
+        <p>zhen@zhen.com</p>
+        <p><button class="button">Contact</button></p>
+        </div>
+        </div>
+        </div>
+
+</html>
