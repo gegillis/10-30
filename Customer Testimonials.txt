@@ -18,8 +18,8 @@ Background-color: LightGray;
 </style>
 
 <nav>
-	<ahref="index.html">Home</a>
-	<ahref="team.html">The Team</a>
+	<a href="index.html">Home</a>
+	<a href="team.html">The Team</a>
 
 </nav>
 
